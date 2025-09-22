@@ -59,7 +59,7 @@ python test.py
 Also, you can install DCNv3 according to [InternImage](https://github.com/OpenGVLab/InternImage/tree/master).
 
 ## Datasets
-You can prepare the datasets KITTI and NYUv2 according to [here](https://github.com/cleinc/bts/tree/master/pytorch) and download the SUN RGB-D dataset from [here](https://rgbd.cs.princeton.edu/), and then modify the data path in the config files to your dataset locations.
+You can prepare the datasets KITTI and NYUv2 according to [here](https://github.com/cleinc/bts/tree/master/pytorch) and download the SUN RGB-D dataset from [here](https://rgbd.cs.princeton.edu/), and then modify the data path in the config files to your dataset locations. Also, the DIML-CVD dataset can be downloaded from [here](https://dimlrgbd.github.io/#main).
 
 
 ## Training
