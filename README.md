@@ -14,7 +14,7 @@
 
 <div>
     <h4 align="center">
-        • <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046" target='_blank'>IEEE TMM</a> •
+        • <a href="https://ieeexplore.ieee.org/document/11370258" target='_blank'>IEEE TMM</a> •
     </h4>
 </div>
 
