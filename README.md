@@ -109,7 +109,13 @@ python sade/eval.py configs/arguments_eval_kittieigen.txt
 If you find our work useful, please consider citing:
 
 ```tex
-coming soon
+@article{park2026toward,
+  title={Toward Smooth Depth Driven by Selective Attention and Selective Aggregation},
+  author={Park, Cheol-Hoon and Ahn, Woo-Jin and Choi, Hyun-Duck},
+  journal={IEEE Transactions on Multimedia},
+  year={2026},
+  publisher={IEEE}
+}
 ```
 
 ## Acknowledgement
