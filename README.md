@@ -114,6 +114,8 @@ If you find our work useful, please consider citing:
   author={Park, Cheol-Hoon and Ahn, Woo-Jin and Choi, Hyun-Duck},
   journal={IEEE Transactions on Multimedia},
   year={2026},
+  volume={28},
+  pages={4585--4595},
   publisher={IEEE}
 }
 ```
